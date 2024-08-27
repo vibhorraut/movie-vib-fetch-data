@@ -1,6 +1,7 @@
 # Final output
 ![vib-movies-db-feach-data](https://github.com/user-attachments/assets/80f80424-a7c4-43f0-b515-570633732767)
 
+# npm install bootstrap axios react-router-dom
 
 # Getting Started with Create React App
 
